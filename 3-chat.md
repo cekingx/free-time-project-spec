@@ -16,3 +16,9 @@ Create chat app with websocket
 > I can initiate/send message to another user
 >
 > So the another user can receive my message
+
+## Related
+
+UI Suggestion
+
+![UI Suggestion](./asset/3-chat/ui.excalidraw.png)
